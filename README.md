@@ -1,6 +1,6 @@
 # SurMinus – Advanced Game Client
 
-**SurMinus (v4.2)** is an advanced browser-based client for **surviv.io**, providing powerful tools and quality-of-life features to enhance gameplay control, visibility, and automation.
+**SurMinus** is an advanced browser-based client for **surviv.io**, providing powerful tools and quality-of-life features to enhance gameplay control, visibility, and automation.
 
 > ⚡ Fast • Modular • Highly Customizable
 
